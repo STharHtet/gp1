@@ -3,6 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 <<<<<<< HEAD
+<<<<<<< HEAD
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -14,6 +15,8 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 =======
 >>>>>>> dc4fe33 (just commit gitignore)
+=======
+>>>>>>> e85e3a2 (that is)
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -48,6 +51,7 @@ build/
 
 ### Mac OS ###
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 
 # Compiled class file
@@ -78,3 +82,6 @@ hs_err_pid*
 =======
 .DS_Store
 >>>>>>> dc4fe33 (just commit gitignore)
+=======
+.DS_Store
+>>>>>>> e85e3a2 (that is)
