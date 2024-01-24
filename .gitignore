@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+<<<<<<< HEAD
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -11,6 +12,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+=======
+>>>>>>> dc4fe33 (just commit gitignore)
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -44,6 +47,7 @@ build/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 
 # Compiled class file
@@ -71,3 +75,6 @@ build/
 hs_err_pid*
 
 .idea/
+=======
+.DS_Store
+>>>>>>> dc4fe33 (just commit gitignore)
