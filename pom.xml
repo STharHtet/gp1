@@ -5,11 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.napier.sem</groupId>
-<<<<<<< HEAD
     <artifactId>Group1</artifactId>
-=======
-    <artifactId>gp1</artifactId>
->>>>>>> e85e3a2 (that is)
     <version>1.0-SNAPSHOT</version>
 
     <properties>
